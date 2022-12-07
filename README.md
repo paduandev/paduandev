@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I'm Emerson Paduan
+
+- 🔭 I currently work as a university professor and as a teacher in bootcamps.
+- :computer: I'm also working as a developer, but currently only on personal projects. 
 
 <!--
 **EmersonPaduan/EmersonPaduan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
