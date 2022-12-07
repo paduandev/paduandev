@@ -4,7 +4,7 @@
 - 🔭 I currently work as a university professor and as a teacher in bootcamps.
 - :computer: I'm also working as a developer, but currently only on personal projects. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-paduan/)](https://www.linkedin.com/in/emerson-paduan/)
+[![Linkedin Badge](https://img.shields.io/badge/-EmersonPaduan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-paduan/)](https://www.linkedin.com/in/emerson-paduan/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blueberry)
 <!--
