@@ -4,6 +4,8 @@
 - 🔭 I currently work as a university professor and as a teacher in bootcamps.
 - :computer: I'm also working as a developer, but currently only on personal projects. 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blueberry)
 <!--
 **EmersonPaduan/EmersonPaduan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
