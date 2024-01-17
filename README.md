@@ -2,7 +2,7 @@
 ### I'm Emerson Paduan
 
 - 🔭 I currently work as a university professor and as a teacher in bootcamps.
-- :computer: I'm also working as a developer, but currently only on personal projects. 
+- :computer: I'm also working as a developer, especially using Java. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-EmersonPaduan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emerson-paduan/)](https://www.linkedin.com/in/emerson-paduan/)
 
